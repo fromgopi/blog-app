@@ -16,3 +16,4 @@ EXPOSE 3000
 
 # Start main process
 CMD ["rails", "server", "-b", "0.0.0.0"]
+
